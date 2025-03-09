@@ -70,10 +70,3 @@ Before you begin, ensure you have the following installed:
 - Modify `application.properties` in each service to match your database configuration if needed.
 - Eureka Server should always be started first to ensure service discovery.
 
----
-
-### Need Help?
-If you encounter any issues, feel free to raise an issue in the repository or contact the project maintainer.
-
-Happy Coding! 🚀
-
